@@ -1,7 +1,5 @@
-### Olá! 👋 
-Você pode me chamar de Mari.
+### Olá! 👋 Eu sou a Mari.
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="https://www.linkedin.com/in/marigomes/">
 
 <!--
 **mari-gomes/mari-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
